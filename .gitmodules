@@ -1,6 +1,3 @@
-[submodule "DevDistillery-Frontend"]
-	path = DevDistillery-Frontend
-	url = https://github.com/FlypZed/DevDistillery-Frontend.git
 [submodule "DevDistillery-Backend"]
 	path = DevDistillery-Backend
 	url = https://github.com/FlypZed/DevDistillery-Backend.git
